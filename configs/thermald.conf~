@@ -1,4 +1,4 @@
-sampling         1000
+sampling         30000
 
 [tsens_tz_sensor0]
 sampling         30000
